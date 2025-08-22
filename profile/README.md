@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 Front-end
 
-| Name     | 임성룡                                                                | 김예나                                                                | 서연희                                                                |
+| Name     | [임성룡](https://github.com/ryongseong)                                | [김예나](https://github.com/yeneua)                                  | [서연희](https://github.com/yeonhui1219)                              |
 | -------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | FE       | <img src="./Docs/assets/Image/성룡.png" width="300px" height="300px"> | <img src="./Docs/assets/Image/예나.jpg" width="300px" height="300px"> | <img src="./Docs/assets/Image/연희.jpg" width="300px" height="300px"> |
 | Position | Leader, 촬영·편집 페이지                                              | FE Leader, 로그인 상태 관리 도입, 어제/지난주의 순간 페이지           | 갤러리·프로필 페이지                                                  |
@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 Back-end
 
-| Name     | 김환수                                                                   | 박정훈                                                                | 전원균                                                                |
+| Name     | [김환수](https://github.com/KimHS17)                                     | [박정훈](https://github.com/Leehwa531)                                | [전원균](https://github.com/spotydol7)             |
 | -------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | BE       | <img src="./Docs/assets/Image/환수.jpg" width="300px" height="300px">    | <img src="./Docs/assets/Image/정훈.jpg" width="300px" height="300px"> | <img src="./Docs/assets/Image/원균.png" width="300px" height="300px"> |
 | Position | BE Leader, 인프라 및 CI/CD 파이프라인 구축, N컷 게시물·오픈비두 API 개발 | S3 연계 미디어 관리 기능 구현, 댓글·랭킹·촬영 에셋 등 조회 기능 개발  | 사용자 인증 및 FFmpeg 합성 기능 개발, 영상 포트폴리오 제작            |
@@ -116,7 +116,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=styledcomponents&logoColor=white">
-![Openvidu](https://img.shields.io/badge/openvidu-333333?style=for-the-badge&logo=webrtc&logoColor=#333333)
+![Openvidu](https://img.shields.io/badge/openvidu-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/mediapipe-0097A7.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 <img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=&logoColor=white">
